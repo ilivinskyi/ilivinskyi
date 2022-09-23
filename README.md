@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Vasily
 
-- 🇺🇦 I live in Berlin, Germany.
-- 🐍 I'm an SQA engineer
-- 🤖 Most of the time I'm writing on Swift and Python.
+- 🇺🇦 I live in Kyiv, Ukraine.
+- 🐍 I'm an Mobile QA Automation engineer
+- 🤖 Most of the time I'm writing on Swift and Python, sometimes Kotlin and Java.
 - 📱 I love mobile devices and everything around them
 
 #### My CV: [ilivinskyi.pdf](https://github.com/ilivinskyi/ilivinskyi/blob/main/cv.pdf)
