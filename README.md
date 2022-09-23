@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vasily
+# Hi there 👋 I'm Ihor
 
 - 🇺🇦 I live in Kyiv, Ukraine.
 - 🐍 I'm an Mobile QA Automation engineer
