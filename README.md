@@ -2,7 +2,7 @@
 
 - 🇳🇱 I live in the Netherlands
 - ☕ I'm a Solutions Engineer
-- 🤖 Most of the time I write on Swift and Python, sometimes Kotlin and Java.
+- 🤖 Most of the time, I write in Java, sometimes Kotlin, Swift, and Python
 - 📱 I love mobile devices and everything around them
 - 🛡️ I'm also into PenTesting and security 
 
