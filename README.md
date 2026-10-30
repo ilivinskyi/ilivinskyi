@@ -22,7 +22,7 @@ I build with AI agents every day and turn what works into reusable tools.
 
 - **[Mobile Tester](https://github.com/ilivinskyi/mobile-tester)**: agent skills that test Android and iOS apps the way a person would, on real phones, emulators and simulators, and hand you a QA report with Jira-ready bug drafts.
 - **[Susharka](https://github.com/ilivinskyi/Susharka)**: a Windows screenshot tool that hangs your captures on a clothesline at the top of the screen. Get it on the [Microsoft Store](https://apps.microsoft.com/detail/9p6fs9ct7h5m).
-- **StackBar** (repo opening soon): macOS and iOS-style folders for the Windows taskbar. It groups apps into pop-up folders that open right above their taskbar icon.
+- **[StackBar](https://github.com/ilivinskyi/StackBar)**: macOS and iOS-style folders for the Windows taskbar. It groups apps into pop-up folders that open right above their taskbar icon.
 
 ## Tech I use
 
